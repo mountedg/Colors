@@ -1,0 +1,32 @@
+body {
+
+    text-align: center;
+}
+
+html {
+    background-color:transparent;
+}
+
+#fs {
+    cursor: pointer;
+    color: transparent;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
+#btn {
+    cursor: pointer;
+}
+
+#white {
+    background-color: white;
+}
+
+#warm {
+    background-color:rgb(230, 203, 50);
+}
+
+#teal {
+    background-color: teal;
+}
